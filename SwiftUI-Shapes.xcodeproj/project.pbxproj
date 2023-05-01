@@ -8,17 +8,43 @@
 
 /* Begin PBXBuildFile section */
 		55AD05232A003D2C00CC59C7 /* SwiftUI_ShapesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD05222A003D2C00CC59C7 /* SwiftUI_ShapesApp.swift */; };
-		55AD05252A003D2C00CC59C7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD05242A003D2C00CC59C7 /* ContentView.swift */; };
+		55AD05252A003D2C00CC59C7 /* TriangleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD05242A003D2C00CC59C7 /* TriangleView.swift */; };
 		55AD05272A003D2E00CC59C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55AD05262A003D2E00CC59C7 /* Assets.xcassets */; };
 		55AD052A2A003D2E00CC59C7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55AD05292A003D2E00CC59C7 /* Preview Assets.xcassets */; };
+		55AD05322A003F8100CC59C7 /* ArchTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD05312A003F8100CC59C7 /* ArchTriangle.swift */; };
+		55AD05342A0051A700CC59C7 /* FlowerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD05332A0051A700CC59C7 /* FlowerView.swift */; };
+		55AD05362A0055D900CC59C7 /* ImagePaint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD05352A0055D900CC59C7 /* ImagePaint.swift */; };
+		55AD053A2A005D1800CC59C7 /* ColorBlendView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD05392A005D1800CC59C7 /* ColorBlendView.swift */; };
+		55AD053C2A00603200CC59C7 /* ColoredCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD053B2A00603200CC59C7 /* ColoredCircleView.swift */; };
+		55AD053E2A0065F400CC59C7 /* AnimatedTrapezoid.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD053D2A0065F400CC59C7 /* AnimatedTrapezoid.swift */; };
+		55AD05402A00685B00CC59C7 /* CheckerboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD053F2A00685B00CC59C7 /* CheckerboardView.swift */; };
+		55AD05452A006C1500CC59C7 /* TapMePulseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD05442A006C1500CC59C7 /* TapMePulseView.swift */; };
+		55AD05472A006FD800CC59C7 /* StepperSpringView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD05462A006FD800CC59C7 /* StepperSpringView.swift */; };
+		55AD05492A00721B00CC59C7 /* Sprint3DRotateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD05482A00721B00CC59C7 /* Sprint3DRotateView.swift */; };
+		55AD054B2A00762800CC59C7 /* AnimationOrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD054A2A00762800CC59C7 /* AnimationOrderView.swift */; };
+		55AD054D2A00782200CC59C7 /* DragView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD054C2A00782200CC59C7 /* DragView.swift */; };
+		55AD054F2A007A1000CC59C7 /* LetterArrayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AD054E2A007A1000CC59C7 /* LetterArrayView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		55AD051F2A003D2C00CC59C7 /* SwiftUI-Shapes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI-Shapes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		55AD05222A003D2C00CC59C7 /* SwiftUI_ShapesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_ShapesApp.swift; sourceTree = "<group>"; };
-		55AD05242A003D2C00CC59C7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		55AD05242A003D2C00CC59C7 /* TriangleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriangleView.swift; sourceTree = "<group>"; };
 		55AD05262A003D2E00CC59C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55AD05292A003D2E00CC59C7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		55AD05312A003F8100CC59C7 /* ArchTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArchTriangle.swift; sourceTree = "<group>"; };
+		55AD05332A0051A700CC59C7 /* FlowerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlowerView.swift; sourceTree = "<group>"; };
+		55AD05352A0055D900CC59C7 /* ImagePaint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePaint.swift; sourceTree = "<group>"; };
+		55AD05392A005D1800CC59C7 /* ColorBlendView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBlendView.swift; sourceTree = "<group>"; };
+		55AD053B2A00603200CC59C7 /* ColoredCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColoredCircleView.swift; sourceTree = "<group>"; };
+		55AD053D2A0065F400CC59C7 /* AnimatedTrapezoid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedTrapezoid.swift; sourceTree = "<group>"; };
+		55AD053F2A00685B00CC59C7 /* CheckerboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckerboardView.swift; sourceTree = "<group>"; };
+		55AD05442A006C1500CC59C7 /* TapMePulseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapMePulseView.swift; sourceTree = "<group>"; };
+		55AD05462A006FD800CC59C7 /* StepperSpringView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperSpringView.swift; sourceTree = "<group>"; };
+		55AD05482A00721B00CC59C7 /* Sprint3DRotateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sprint3DRotateView.swift; sourceTree = "<group>"; };
+		55AD054A2A00762800CC59C7 /* AnimationOrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationOrderView.swift; sourceTree = "<group>"; };
+		55AD054C2A00782200CC59C7 /* DragView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragView.swift; sourceTree = "<group>"; };
+		55AD054E2A007A1000CC59C7 /* LetterArrayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetterArrayView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +77,9 @@
 		55AD05212A003D2C00CC59C7 /* SwiftUI-Shapes */ = {
 			isa = PBXGroup;
 			children = (
+				55AD05432A006BED00CC59C7 /* Animation */,
+				55AD05302A003F6D00CC59C7 /* Drawing */,
 				55AD05222A003D2C00CC59C7 /* SwiftUI_ShapesApp.swift */,
-				55AD05242A003D2C00CC59C7 /* ContentView.swift */,
 				55AD05262A003D2E00CC59C7 /* Assets.xcassets */,
 				55AD05282A003D2E00CC59C7 /* Preview Content */,
 			);
@@ -65,6 +92,34 @@
 				55AD05292A003D2E00CC59C7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		55AD05302A003F6D00CC59C7 /* Drawing */ = {
+			isa = PBXGroup;
+			children = (
+				55AD05242A003D2C00CC59C7 /* TriangleView.swift */,
+				55AD05312A003F8100CC59C7 /* ArchTriangle.swift */,
+				55AD05332A0051A700CC59C7 /* FlowerView.swift */,
+				55AD05352A0055D900CC59C7 /* ImagePaint.swift */,
+				55AD05392A005D1800CC59C7 /* ColorBlendView.swift */,
+				55AD053B2A00603200CC59C7 /* ColoredCircleView.swift */,
+				55AD053D2A0065F400CC59C7 /* AnimatedTrapezoid.swift */,
+				55AD053F2A00685B00CC59C7 /* CheckerboardView.swift */,
+			);
+			path = Drawing;
+			sourceTree = "<group>";
+		};
+		55AD05432A006BED00CC59C7 /* Animation */ = {
+			isa = PBXGroup;
+			children = (
+				55AD05442A006C1500CC59C7 /* TapMePulseView.swift */,
+				55AD05462A006FD800CC59C7 /* StepperSpringView.swift */,
+				55AD05482A00721B00CC59C7 /* Sprint3DRotateView.swift */,
+				55AD054A2A00762800CC59C7 /* AnimationOrderView.swift */,
+				55AD054C2A00782200CC59C7 /* DragView.swift */,
+				55AD054E2A007A1000CC59C7 /* LetterArrayView.swift */,
+			);
+			path = Animation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +192,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				55AD05252A003D2C00CC59C7 /* ContentView.swift in Sources */,
+				55AD053C2A00603200CC59C7 /* ColoredCircleView.swift in Sources */,
+				55AD053A2A005D1800CC59C7 /* ColorBlendView.swift in Sources */,
+				55AD05492A00721B00CC59C7 /* Sprint3DRotateView.swift in Sources */,
+				55AD05472A006FD800CC59C7 /* StepperSpringView.swift in Sources */,
+				55AD05452A006C1500CC59C7 /* TapMePulseView.swift in Sources */,
+				55AD054D2A00782200CC59C7 /* DragView.swift in Sources */,
+				55AD05252A003D2C00CC59C7 /* TriangleView.swift in Sources */,
+				55AD054F2A007A1000CC59C7 /* LetterArrayView.swift in Sources */,
+				55AD054B2A00762800CC59C7 /* AnimationOrderView.swift in Sources */,
+				55AD05362A0055D900CC59C7 /* ImagePaint.swift in Sources */,
+				55AD05402A00685B00CC59C7 /* CheckerboardView.swift in Sources */,
+				55AD053E2A0065F400CC59C7 /* AnimatedTrapezoid.swift in Sources */,
 				55AD05232A003D2C00CC59C7 /* SwiftUI_ShapesApp.swift in Sources */,
+				55AD05342A0051A700CC59C7 /* FlowerView.swift in Sources */,
+				55AD05322A003F8100CC59C7 /* ArchTriangle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
